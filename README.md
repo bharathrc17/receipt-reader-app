@@ -27,4 +27,4 @@ A full-stack **Streamlit** application that extracts information like **vendor**
 
 ## Watch App Demo
 
-[![Watch the Demo](https://github.com/user-attachments/assets/4748d742-8264-4fcf-964b-33719560cfff)](https://user-images.githubusercontent.com/YOUR-UPLOADED-VIDEO.mp4)
+https://github.com/user-attachments/assets/4748d742-8264-4fcf-964b-33719560cfff
