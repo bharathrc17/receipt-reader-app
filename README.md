@@ -28,3 +28,8 @@ A full-stack **Streamlit** application that extracts information like **vendor**
 ## Watch App Demo
 
 https://github.com/user-attachments/assets/4748d742-8264-4fcf-964b-33719560cfff
+## Notes
+
+- The app includes a feature to download receipt data as a CSV file.
+- This functionality is **not shown in the demo video**, but is available in the UI.
+
